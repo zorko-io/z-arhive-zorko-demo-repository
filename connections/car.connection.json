@@ -1,0 +1,8 @@
+{
+  "name": "car.connection",
+  "title": "Cars Hourcepower for Different Countries",
+  "type": "http",
+  "properties": {
+    "url": "http://example.com/data/car.json"
+  }
+}

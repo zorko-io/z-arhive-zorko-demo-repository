@@ -1,0 +1,8 @@
+{
+  "name": "weather.connection",
+  "title": "Weather in Seattle, New Yourk",
+  "type": "http",
+  "properties": {
+    "url": "http://example.com/data/weather.json"
+  }
+}

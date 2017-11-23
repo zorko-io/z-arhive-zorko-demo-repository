@@ -1,0 +1,8 @@
+{
+  "name": "population.connection",
+  "title": "Population of US",
+  "type": "http",
+  "properties": {
+    "url": "http://example.com/data/population.json"
+  }
+}
