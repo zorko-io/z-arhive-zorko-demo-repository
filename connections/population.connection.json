@@ -1,5 +1,6 @@
 {
   "name": "population.connection",
+  "path": "connections/population.connection.json",
   "title": "Population of US",
   "type": "http",
   "properties": {

@@ -1,5 +1,6 @@
 {
   "name": "car.connection",
+  "path": "connections/car.connection.json",
   "title": "Cars Hourcepower for Different Countries",
   "type": "http",
   "properties": {
